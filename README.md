@@ -25,7 +25,7 @@
 
 # Gif
 
-<img src="/src/crud.gif" max-width="100%" height="auto" >
+<img src="/crud.gif" max-width="100%" height="auto" >
 
 
 # Contributing
